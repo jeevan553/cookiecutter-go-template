@@ -1,4 +1,7 @@
 {
-  "app_name": "my_first_plugin_go",
-  "docker_build_image": "my_docker_image"
+  "app_name": "app_name",
+  "docker_build_image": "docker_build_image"
+  "docker_build_image_version": "latest"
+  "docker_image": "docker_image"
+  "github_username": "github_username"
 }
