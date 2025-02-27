@@ -1,3 +1,4 @@
 {
-	"app_name": "my_app"
+  "app_name": "my_first_plugin_go",
+  "docker_build_image": "my_docker_image"
 }
