@@ -3,5 +3,6 @@
   "docker_build_image": "docker_build_image",
   "docker_build_image_version": "latest",
   "docker_image": "docker_image",
-  "github_username": "github_username"
+  "github_username": "github_username",
+  "project_short_description": "project_short_description"
 }
